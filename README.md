@@ -1,2 +1,2 @@
-# proposal-goal-belajar-git
+# personal-goal-belajar-git
 latihan 1
